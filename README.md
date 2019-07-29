@@ -34,7 +34,7 @@ Ex: 7 é um número feliz?
 
 Logo, 7 é um número feliz. No seu programa você deve considerar um máximo de 100 iterações.
 
-## Números Sortudos ***
+## Números Sortudos
 
 Nós começamos com uma lista de inteiros começando em 1: 
 
