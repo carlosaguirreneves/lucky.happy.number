@@ -1,5 +1,5 @@
 ﻿using System;
-using LuckyAndHappyNumber.Console.Numbers;
+using NumberAwesome.Console.Numbers;
 
 namespace LuckAndHappyNumber
 {

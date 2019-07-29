@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyAndHappyNumber", "LuckyAndHappyNumber.Console\LuckyAndHappyNumber.csproj", "{411174EC-8785-42D9-BDFB-72D7B7906C84}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberAwesome", "NumberAwesome.Console\NumberAwesome.csproj", "{411174EC-8785-42D9-BDFB-72D7B7906C84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyAndHappyNumber.Tests", "LuckyAndHappyNumber.Tests\LuckyAndHappyNumber.Tests.csproj", "{C8C10412-F1F5-459A-A697-2EEE6E3985ED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberAwesome.Tests", "NumberAwesome.Tests\NumberAwesome.Tests.csproj", "{C8C10412-F1F5-459A-A697-2EEE6E3985ED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

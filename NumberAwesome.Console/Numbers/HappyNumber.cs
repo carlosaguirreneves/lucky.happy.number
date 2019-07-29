@@ -1,6 +1,6 @@
 using System;
 
-namespace LuckyAndHappyNumber.Console.Numbers
+namespace NumberAwesome.Console.Numbers
 {
     public class HappyNumber
     {

@@ -1,4 +1,4 @@
-namespace LuckyAndHappyNumber.Console.Numbers
+namespace NumberAwesome.Console.Numbers
 {
     public abstract class LuckyNumber
     {

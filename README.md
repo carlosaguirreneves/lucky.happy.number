@@ -1,6 +1,6 @@
 # Números Felizes e Sortudos 
 
-O programa deve identificar para um dado número se este é um número feliz e se é um número sortudo.
+O programa NumberAwesome foi criado para identificar se um dado número informado é feliz e/ou se é um número sortudo.
 
 ## Executando a aplicação localmente
 
@@ -10,16 +10,21 @@ Passo 1: Instalar os seguintes frameworks.
 
 - DotNet Core 2.2.300
 
-Passo 2: Executar os comandos para rodar a aplicação. Necessário estar dentro do diretório de startup do projeto: LuckyAndHappyNumber.Console
+Passo 2: Executar os comandos para rodar a aplicação. Necessário estar dentro do diretório de startup do projeto: NumberAwesome.Console
 
-- cd LuckyAndHappyNumber.Console
+- cd NumberAwesome.Console
 - dotnet restore
 - dotnet build
 - dotnet run
 
-Passo 3: Com o seguinte comando é possível executar os testes. Necessário estar na raiz do projeto.
+Passo 3: Com o seguinte comando é possível executar todos os testes. Necessário estar na raiz do projeto.
 
 - dotnet test
+
+Para verificar se um número é sortudo e comparar qual implementação tem melhor performance, execute os comandos abaixo.
+
+ - dotnet test --filter DisplayName~ArrayLuckyNumberTest
+ - dotnet test --filter DisplayName~ListLuckyNumberTest
 
 ## Números Felizes
 

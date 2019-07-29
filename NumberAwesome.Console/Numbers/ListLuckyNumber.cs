@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace LuckyAndHappyNumber.Console.Numbers
+namespace NumberAwesome.Console.Numbers
 {
     public class ListLuckyNumber : LuckyNumber
     {

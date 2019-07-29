@@ -1,5 +1,8 @@
-namespace LuckyAndHappyNumber.Console.Numbers
+namespace NumberAwesome.Console.Numbers
 {
+    /*
+        ArrayLuckyNumber possui melhor performance em relação ao ListLuckyNumber
+    */
     public class ArrayLuckyNumber : LuckyNumber
     {
         private long _number;
@@ -29,7 +32,7 @@ namespace LuckyAndHappyNumber.Console.Numbers
                 }
             }
 
-            var step = 1;
+            long step = 1;
             long value = 0;
             long removeAt = 2;
 
